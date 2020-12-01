@@ -1,5 +1,5 @@
 # AutoML_Regressor
-  ##Simple AutoML library for regression to evaluate different regressors
+  ## Simple AutoML library for regression to evaluate different regressors
     1. Deal with missing values in data-set
     2. Scaling for numerical values
     3. Encoding for categorical values
