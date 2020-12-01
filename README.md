@@ -11,3 +11,5 @@
     4. Elastic Net Regression
   ## Cross-validation is used to prevent over-fitting on training set
   ## Scoring function to select model is Root Mean Square Error
+  
+## Inspiration for this came from the classification library by gianlucamalato. I used this as a base to write a regression library to help me and others build good regression models quickly. 
